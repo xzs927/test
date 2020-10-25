@@ -5,5 +5,8 @@ public class Hello2 {
         System.out.println("dev测试Git");
         System.out.println("演示冲突");
         System.out.println("我不想演示");
+        System.out.println("我不想演示");
+        System.out.println("我不想演示");
+        System.out.println("我不想演示");
     }
 }
